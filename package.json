@@ -1,0 +1,23 @@
+{
+  "name": "internship-radar-backend",
+  "version": "1.0.0",
+  "description": "Backend Node/Express cho Internship Radar - Đã deploy lên Render",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "internship",
+    "jobs",
+    "express",
+    "backend"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
